@@ -46,9 +46,15 @@ li{
     flex-flow: row nowrap;
     justify-content: center;
     margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 
 }
 footer{
     text-align: center;
     font-size: smaller;
+}
+#finale{
+    font-weight: 550;
+    font-size: 12px;
 }
