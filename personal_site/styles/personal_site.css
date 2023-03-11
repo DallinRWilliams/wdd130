@@ -37,12 +37,12 @@ nav{
 }
 nav a{
     text-align: center;
-    color: #211d38;
+    color: #000000;
     text-decoration: none;
     padding: 35px;
 }
 nav a:hover{
-    background-color: #bdb2f9;
+    background-color: #ffffff;
     color: #9285d7;
 }
 .book, .join{
@@ -129,7 +129,7 @@ nav a:hover{
 }
 #hero-msg h1, #hero-msg h4{
     text-align: center;
-    color: #b8c7c8;
+    color: #ffffff;
 }
 #logo_link{
     padding-top: 5px;
@@ -140,8 +140,8 @@ nav a:hover{
     width: 80px;
 }
 footer{
-    background-color: #b8c7c8;
-    color: #211d38;
+    background-color: #ffffff;
+    color: #000000;
     padding: 25px 50px;
     margin-top: 200px;
     display: flex;
